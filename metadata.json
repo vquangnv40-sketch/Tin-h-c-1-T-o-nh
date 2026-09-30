@@ -1,0 +1,6 @@
+{
+  "name": "Tập Vẽ Tranh Cùng AI - Cọ Thần Kỳ Diệu Cho Bé",
+  "description": "Ứng dụng sáng tạo tranh vẽ dành cho bé và học sinh với AI Cọ Thần, tạo tranh thông minh, dán sticker, in tranh tô màu và kể truyện cổ tích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
